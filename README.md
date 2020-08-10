@@ -9,3 +9,5 @@ Main components are:
 * Support for GeoJSON data serialization.
 
 See the [geolatte wiki](http://www.geolatte.org/confluence/display/base/Home+%28geolatte-common%29 "geolatte wiki") for more information
+
+PR3
